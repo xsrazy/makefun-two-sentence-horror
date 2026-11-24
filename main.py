@@ -7,11 +7,10 @@ as bytes, with no trailing newline, on a single line.
 import os
 
 LINE = (
-    "I finally found the courage to look under my bed after months of "
-    "hearing the scratching, and the claw marks were on the underside of "
-    "the mattress. That is when I realized the thing had been sleeping "
-    "right above me, pressed against the springs, waiting for me to fall "
-    "asleep first."
+    "My daughter has waved at the empty corner of her bedroom every "
+    "night for a week, so last night I finally asked her who she was "
+    "waving at. She smiled and said, 'The man who lives in the walls "
+    "says he misses having a little girl to talk to.'"
 )
 
 # Gate self-check at import.
